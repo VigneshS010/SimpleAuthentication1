@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "976618334884",
+    "project_id": "fir-one-eff08",
+    "storage_bucket": "fir-one-eff08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976618334884:android:cfb888542d1bf1f997d431",
+        "android_client_info": {
+          "package_name": "com.example.firebase2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNfvMndRgPyw8DOVzrFjtJrtPDYygfsB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
